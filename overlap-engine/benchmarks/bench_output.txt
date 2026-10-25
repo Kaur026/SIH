@@ -1,0 +1,8 @@
+  cases  insts  total s  resolve s  score+pair s  pairs eval  alerts | naive all-pairs id-check s (pairs tested)
+   1000    500     0.32       0.28          0.04        1440     639 | 0.05 (499,500)
+   5000   2000     1.69       1.43          0.26        8855    3995 | 1.16 (12,497,500)
+  20000   5000     9.44       8.05          1.36       56551   25535 | 24.66 (199,990,000)
+  50000  10000    33.22      29.15          3.93      170684   76494 | 
+
+incremental detect_for_case vs 20k existing (warm cache): 0.84s, 1 alerts
+peak Python memory for 20k-case batch (tracemalloc, includes caches): 77 MB

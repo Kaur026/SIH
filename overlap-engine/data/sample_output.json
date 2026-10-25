@@ -1,0 +1,200 @@
+{
+  "alerts": [
+    {
+      "alert_id": "OV-6A5DFFF205D3",
+      "headline": "Potential Overlapping Cases – Coordination Required",
+      "case_a_id": "RB-2025-014",
+      "case_b_id": "RO-W-2025-007",
+      "cell_a": "RB",
+      "cell_b": "Regional Office West",
+      "institution_id": "INST-001",
+      "institution_name": "ABC Engineering College",
+      "confidence": 0.816,
+      "confidence_pct": 82,
+      "tier": "HIGH",
+      "reason": "ABC Engineering College: RB case RB-2025-014 (Under Review) and Regional Office West case RO-W-2025-007 (Received) are being handled by different cells; institution matched by institution name/alias (98%); similar complaint text (shared terms: salary, unpaid, faculty); same category (Faculty Grievance); received 18 days apart.",
+      "signals": {
+        "institution_confidence": 0.98,
+        "text_similarity": 0.5027,
+        "category_match": "same",
+        "days_apart": 18.0,
+        "shared_terms": [
+          "salary",
+          "unpaid",
+          "faculty"
+        ],
+        "explicitly_linked": false
+      }
+    },
+    {
+      "alert_id": "OV-BEAB4D830EA6",
+      "headline": "Potential Overlapping Cases – Coordination Required",
+      "case_a_id": "PGRC-2025-088",
+      "case_b_id": "RO-W-2025-007",
+      "cell_a": "PGRC",
+      "cell_b": "Regional Office West",
+      "institution_id": "INST-001",
+      "institution_name": "ABC Engineering College",
+      "confidence": 0.7849,
+      "confidence_pct": 78,
+      "tier": "HIGH",
+      "reason": "ABC Engineering College: PGRC case PGRC-2025-088 (In Progress) and Regional Office West case RO-W-2025-007 (Received) are being handled by different cells; institution matched by approximate institution name (94%); similar complaint text (shared terms: salary, faculty, receiv); same category (Faculty Grievance); received 6 days apart.",
+      "signals": {
+        "institution_confidence": 0.9399,
+        "text_similarity": 0.4716,
+        "category_match": "same",
+        "days_apart": 6.0,
+        "shared_terms": [
+          "salary",
+          "faculty",
+          "receiv"
+        ],
+        "explicitly_linked": false
+      }
+    },
+    {
+      "alert_id": "OV-9A9A3CFC9875",
+      "headline": "Potential Overlapping Cases – Coordination Required",
+      "case_a_id": "RB-2025-014",
+      "case_b_id": "PGRC-2025-088",
+      "cell_a": "RB",
+      "cell_b": "PGRC",
+      "institution_id": "INST-001",
+      "institution_name": "ABC Engineering College",
+      "confidence": 0.7675,
+      "confidence_pct": 77,
+      "tier": "HIGH",
+      "reason": "ABC Engineering College: RB case RB-2025-014 (Under Review) and PGRC case PGRC-2025-088 (In Progress) are being handled by different cells; institution matched by approximate institution name (94%); similar complaint text (shared terms: salary, faculty, month); same category (Faculty Grievance); received 12 days apart.",
+      "signals": {
+        "institution_confidence": 0.9399,
+        "text_similarity": 0.4301,
+        "category_match": "same",
+        "days_apart": 12.0,
+        "shared_terms": [
+          "salary",
+          "faculty",
+          "month"
+        ],
+        "explicitly_linked": false
+      }
+    },
+    {
+      "alert_id": "OV-01C870EB1846",
+      "headline": "Potential Overlapping Cases – Coordination Required",
+      "case_a_id": "RB-2025-021",
+      "case_b_id": "PGRC-2025-101",
+      "cell_a": "RB",
+      "cell_b": "PGRC",
+      "institution_id": "INST-002",
+      "institution_name": "Sunrise Institute of Technology",
+      "confidence": 0.5699,
+      "confidence_pct": 57,
+      "tier": "MEDIUM",
+      "reason": "Sunrise Institute of Technology: RB case RB-2025-021 (Under Review) and PGRC case PGRC-2025-101 (Received) are being handled by different cells; institution matched by approximate institution name (97%); partly similar complaint text (shared terms: course, approval, aicte); different categories (Approval Violation / Admission Irregularity); received 8 days apart.",
+      "signals": {
+        "institution_confidence": 0.97,
+        "text_similarity": 0.32,
+        "category_match": "different",
+        "days_apart": 8.0,
+        "shared_terms": [
+          "course",
+          "approval",
+          "aicte"
+        ],
+        "explicitly_linked": false
+      }
+    },
+    {
+      "alert_id": "OV-CB87C8A54339",
+      "headline": "Potential Overlapping Cases – Coordination Required",
+      "case_a_id": "RB-2025-030",
+      "case_b_id": "PGRC-2025-120",
+      "cell_a": "RB",
+      "cell_b": "PGRC",
+      "institution_id": "INST-004",
+      "institution_name": "Dr. R. K. Mehta Institute of Technology",
+      "confidence": 0.475,
+      "confidence_pct": 47,
+      "tier": "LOW",
+      "reason": "Dr. R. K. Mehta Institute of Technology: RB case RB-2025-030 (In Progress) and PGRC case PGRC-2025-120 (Received) are being handled by different cells; institution matched by institution name/alias (98%); complaint text differs; different categories (Infrastructure Deficiency / Fee Irregularity); received 15 days apart.",
+      "signals": {
+        "institution_confidence": 0.98,
+        "text_similarity": 0.0,
+        "category_match": "different",
+        "days_apart": 15.0,
+        "shared_terms": [],
+        "explicitly_linked": false
+      }
+    }
+  ],
+  "suppressed": [
+    {
+      "case_a_id": "RB-2025-050",
+      "case_b_id": "PGRC-2025-140",
+      "institution_id": "INST-005",
+      "reason": "already_linked"
+    },
+    {
+      "case_a_id": "RB-2024-077",
+      "case_b_id": "PGRC-2025-130",
+      "institution_id": "INST-008",
+      "reason": "closed_case"
+    }
+  ],
+  "unresolved": [
+    {
+      "case_id": "PGRC-2025-110",
+      "status": "AMBIGUOUS",
+      "method": "exact_name_shared_by_multiple",
+      "candidates": [
+        {
+          "institution_id": "INST-002",
+          "score": 0.98
+        },
+        {
+          "institution_id": "INST-003",
+          "score": 0.98
+        }
+      ]
+    },
+    {
+      "case_id": "PGRC-2025-160",
+      "status": "UNRESOLVED",
+      "method": "no_candidate",
+      "candidates": []
+    }
+  ],
+  "errors": [
+    {
+      "case_id": "BAD-1",
+      "error": "case requires 'source_cell' (the Bureau/Cell handling it)"
+    },
+    {
+      "case_id": "RB-2025-014",
+      "error": "duplicate_case_id (first occurrence kept)"
+    }
+  ],
+  "warnings": [],
+  "stats": {
+    "cases_received": 18,
+    "cases_valid": 16,
+    "institutions_resolved_cases": 14,
+    "ambiguous_cases": 1,
+    "unresolved_cases": 2,
+    "institutions_with_multiple_cells": 5,
+    "pairs_evaluated": 7,
+    "alerts": 5,
+    "alerts_by_tier": {
+      "HIGH": 3,
+      "MEDIUM": 1,
+      "LOW": 1
+    },
+    "suppressed_by_reason": {
+      "already_linked": 1,
+      "closed_case": 1
+    },
+    "resolve_ms": 1.39,
+    "scoring_ms": 1.49,
+    "runtime_ms": 2.87
+  }
+}

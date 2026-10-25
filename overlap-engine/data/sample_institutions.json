@@ -1,0 +1,84 @@
+[
+  {
+    "institution_id": "INST-001",
+    "name": "ABC Engineering College",
+    "aicte_permanent_id": "1-1000001",
+    "aliases": [
+      "ABC",
+      "A.B.C. College of Engineering",
+      "ABC Engg College"
+    ],
+    "state": "Maharashtra",
+    "city": "Pune"
+  },
+  {
+    "institution_id": "INST-002",
+    "name": "Sunrise Institute of Technology",
+    "aicte_permanent_id": "1-1000002",
+    "aliases": [
+      "SIT Nashik"
+    ],
+    "state": "Maharashtra",
+    "city": "Nashik"
+  },
+  {
+    "institution_id": "INST-003",
+    "name": "Sunrise Institute of Technology",
+    "aicte_permanent_id": "1-1000003",
+    "aliases": [
+      "SIT Indore"
+    ],
+    "state": "Madhya Pradesh",
+    "city": "Indore"
+  },
+  {
+    "institution_id": "INST-004",
+    "name": "Dr. R. K. Mehta Institute of Technology",
+    "aicte_permanent_id": "1-1000004",
+    "aliases": [
+      "RKMIT"
+    ],
+    "state": "Maharashtra",
+    "city": "Mumbai"
+  },
+  {
+    "institution_id": "INST-005",
+    "name": "Kavery Institute of Technology",
+    "aicte_permanent_id": "1-1000005",
+    "aliases": [
+      "KIT"
+    ],
+    "state": "Karnataka",
+    "city": "Mysuru"
+  },
+  {
+    "institution_id": "INST-006",
+    "name": "Kiran Institute of Information Technology",
+    "aicte_permanent_id": "1-1000006",
+    "aliases": [
+      "KIIT Hyderabad"
+    ],
+    "state": "Telangana",
+    "city": "Hyderabad"
+  },
+  {
+    "institution_id": "INST-007",
+    "name": "Greenfield Polytechnic",
+    "aicte_permanent_id": "1-1000007",
+    "aliases": [
+      "Greenfield Poly"
+    ],
+    "state": "Madhya Pradesh",
+    "city": "Bhopal"
+  },
+  {
+    "institution_id": "INST-008",
+    "name": "National Institute of Applied Sciences",
+    "aicte_permanent_id": "1-1000008",
+    "aliases": [
+      "NIAS"
+    ],
+    "state": "Tamil Nadu",
+    "city": "Chennai"
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "alerts": [
+    {
+      "alert_id": "OV-5894D5AEF2F1",
+      "headline": "Potential Overlapping Cases \u2013 Coordination Required",
+      "case_a_id": "AICTE-2026-01001",
+      "case_b_id": "AICTE-2026-01053",
+      "cell_a": "RB",
+      "cell_b": "PGRC",
+      "institution_id": "a0000000-0000-0000-0000-000000000001",
+      "institution_name": "Delhi Engineering & Technology Institute",
+      "confidence": 0.4868,
+      "confidence_pct": 49,
+      "tier": "LOW",
+      "reason": "Delhi Engineering & Technology Institute: RB case AICTE-2026-01001 (In Progress) and PGRC case AICTE-2026-01053 (Received) are being handled by different cells; complaint text differs; different categories (Fee Cap Violation / Non-Refund of Security Deposit); received 13 days apart.",
+      "signals": {
+        "institution_confidence": 1.0,
+        "text_similarity": 0.0,
+        "category_match": "different",
+        "days_apart": 12.7,
+        "shared_terms": [],
+        "explicitly_linked": false
+      }
+    },
+    {
+      "alert_id": "OV-0D620D928728",
+      "headline": "Potential Overlapping Cases \u2013 Coordination Required",
+      "case_a_id": "AICTE-2026-01005",
+      "case_b_id": "AICTE-2026-01054",
+      "cell_a": "RB",
+      "cell_b": "PGRC",
+      "institution_id": "a0000000-0000-0000-0000-000000000005",
+      "institution_name": "Vidyapeeth Institute of Science & Technology",
+      "confidence": 0.4812,
+      "confidence_pct": 48,
+      "tier": "LOW",
+      "reason": "Vidyapeeth Institute of Science & Technology: RB case AICTE-2026-01005 (In Progress) and PGRC case AICTE-2026-01054 (On Hold) are being handled by different cells; complaint text differs; different categories (Faculty Deficiency / Fee Cap Violation); received 19 days apart.",
+      "signals": {
+        "institution_confidence": 1.0,
+        "text_similarity": 0.0,
+        "category_match": "different",
+        "days_apart": 18.7,
+        "shared_terms": [],
+        "explicitly_linked": false
+      }
+    }
+  ],
+  "suppressed": [],
+  "unresolved": [],
+  "errors": [],
+  "warnings": [],
+  "stats": {
+    "cases_received": 9,
+    "cases_valid": 9,
+    "institutions_resolved_cases": 9,
+    "ambiguous_cases": 0,
+    "unresolved_cases": 0,
+    "institutions_with_multiple_cells": 2,
+    "pairs_evaluated": 2,
+    "alerts": 2,
+    "alerts_by_tier": {
+      "LOW": 2
+    },
+    "suppressed_by_reason": {},
+    "resolve_ms": 0.23,
+    "scoring_ms": 1.22,
+    "runtime_ms": 1.45
+  }
+}

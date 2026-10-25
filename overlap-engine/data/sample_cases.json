@@ -1,0 +1,181 @@
+[
+  {
+    "case_id": "RB-2025-014",
+    "source_cell": "RB",
+    "institution_name": "ABC Engineering College",
+    "title": "Faculty salaries unpaid for six months",
+    "description": "Faculty members at the college report that salaries have not been paid for six months and the management is delaying payment despite repeated requests.",
+    "category": "Faculty Grievance",
+    "status": "Under Review",
+    "received_at": "2025-03-02"
+  },
+  {
+    "case_id": "PGRC-2025-088",
+    "source_cell": "PGRC",
+    "institution_name": "ABC Engg Collage",
+    "title": "Teachers not receiving salary",
+    "description": "A CPGRAMS complaint states teachers have received no salary for months; the management refuses to pay the pending salary.",
+    "category": "Faculty Grievance",
+    "status": "In Progress",
+    "received_at": "2025-03-14"
+  },
+  {
+    "case_id": "RO-W-2025-007",
+    "source_cell": "Regional Office West",
+    "institution_name": null,
+    "title": "Salary delay and unpaid faculty dues",
+    "description": "Regional office received a representation from staff about unpaid salary and delayed dues at the institution.",
+    "category": "Faculty Grievance",
+    "status": "Received",
+    "received_at": "2025-03-20",
+    "aicte_permanent_id": "1-1000001"
+  },
+  {
+    "case_id": "RB-2025-021",
+    "source_cell": "RB",
+    "institution_name": "SIT Nashik",
+    "title": "Course running without AICTE approval",
+    "description": "The institute is running an additional computer engineering intake without approval from AICTE.",
+    "category": "Approval Violation",
+    "status": "Under Review",
+    "received_at": "2025-04-01"
+  },
+  {
+    "case_id": "PGRC-2025-101",
+    "source_cell": "PGRC",
+    "institution_name": "Sunrise Institute of Technology, Nashik",
+    "title": "Admission taken for unapproved course",
+    "description": "Student alleges admission was granted for a course not approved by AICTE and fees were collected.",
+    "category": "Admission Irregularity",
+    "status": "Received",
+    "received_at": "2025-04-09",
+    "institution_state": "Maharashtra"
+  },
+  {
+    "case_id": "PGRC-2025-110",
+    "source_cell": "PGRC",
+    "institution_name": "Sunrise Institute of Technology",
+    "title": "Hostel fee overcharged",
+    "description": "Hostel fee collected is higher than the notified amount.",
+    "category": "Fee Irregularity",
+    "status": "Received",
+    "received_at": "2025-04-11"
+  },
+  {
+    "case_id": "RB-2025-030",
+    "source_cell": "RB",
+    "institution_name": "RKMIT",
+    "title": "Laboratory equipment deficiency",
+    "description": "Inspection found that the computer laboratory lacks the required equipment and the library is inadequate.",
+    "category": "Infrastructure Deficiency",
+    "status": "In Progress",
+    "received_at": "2025-05-05"
+  },
+  {
+    "case_id": "PGRC-2025-120",
+    "source_cell": "PGRC",
+    "institution_name": "Dr R K Mehta Inst of Tech",
+    "title": "Refund of fees not given",
+    "description": "Student has not received refund of fees after withdrawing admission.",
+    "category": "Fee Irregularity",
+    "status": "Received",
+    "received_at": "2025-05-20"
+  },
+  {
+    "case_id": "RB-2025-041",
+    "source_cell": "RB",
+    "institution_name": "Greenfield Polytechnic",
+    "title": "Fake faculty shown in records",
+    "description": "Same faculty names are shown at two institutions.",
+    "category": "Faculty Misrepresentation",
+    "status": "Under Review",
+    "received_at": "2025-06-01"
+  },
+  {
+    "case_id": "RB-2025-042",
+    "source_cell": "RB",
+    "institution_name": "Greenfield Poly",
+    "title": "Faculty shortage",
+    "description": "Institute has fewer faculty than required by norms.",
+    "category": "Faculty Misrepresentation",
+    "status": "Received",
+    "received_at": "2025-06-03"
+  },
+  {
+    "case_id": "RB-2024-077",
+    "source_cell": "RB",
+    "institution_name": "NIAS",
+    "title": "Unapproved extension campus",
+    "description": "Institution operates an extension campus without approval.",
+    "category": "Approval Violation",
+    "status": "Closed",
+    "received_at": "2024-11-01"
+  },
+  {
+    "case_id": "PGRC-2025-130",
+    "source_cell": "PGRC",
+    "institution_name": "National Institute of Applied Sciences",
+    "title": "Campus operating without permission",
+    "description": "Complaint that an extension campus is operating without permission.",
+    "category": "Approval Violation",
+    "status": "In Progress",
+    "received_at": "2025-06-10"
+  },
+  {
+    "case_id": "RB-2025-050",
+    "source_cell": "RB",
+    "institution_name": "Kavery Inst of Technology",
+    "title": "Degree certificates withheld",
+    "description": "Students degree certificates are being withheld by the institute.",
+    "category": "Academic Grievance",
+    "status": "Under Review",
+    "received_at": "2025-07-01",
+    "linked_case_ids": [
+      "PGRC-2025-140"
+    ]
+  },
+  {
+    "case_id": "PGRC-2025-140",
+    "source_cell": "PGRC",
+    "institution_name": "KIT",
+    "title": "Certificates not issued after course completion",
+    "description": "Degree certificate not issued after completion.",
+    "category": "Academic Grievance",
+    "status": "In Progress",
+    "received_at": "2025-07-04"
+  },
+  {
+    "case_id": "PGRC-2025-150",
+    "source_cell": "PGRC",
+    "institution_name": "KIIT",
+    "title": "Ragging complaint in hostel",
+    "description": "Student reports ragging incidents in the hostel.",
+    "category": "Harassment & Safety",
+    "status": "Received",
+    "received_at": "2025-07-10"
+  },
+  {
+    "case_id": "PGRC-2025-160",
+    "source_cell": "PGRC",
+    "institution_name": "Unknown Vidyalaya of Learning",
+    "title": "Misc complaint",
+    "description": "Not clear.",
+    "category": "Other",
+    "status": "Received",
+    "received_at": "2025-07-12"
+  },
+  {
+    "case_id": "BAD-1",
+    "institution_name": "ABC Engineering College"
+  },
+  {
+    "case_id": "RB-2025-014",
+    "source_cell": "RB",
+    "institution_name": "ABC Engineering College",
+    "title": "Duplicate id row",
+    "description": "dup",
+    "category": "Faculty Grievance",
+    "status": "Received",
+    "received_at": "2025-03-02"
+  }
+]

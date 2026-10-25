@@ -1,0 +1,11 @@
+{
+  "_note": "PROPOSED taxonomy. AICTE's real category list is not in the project documents; confirm/replace before relying on it.",
+  "Faculty & Staff Grievance": {"faculty": 1.0, "salary": 1.5, "termination": 1.0, "provident fund": 1.5, "appointment": 0.8, "pay commission": 1.5, "service condition": 1.0, "harassment of faculty": 1.5},
+  "Fee Irregularity": {"fee": 1.5, "refund": 1.5, "donation": 1.5, "capitation": 2.0, "tuition": 1.0, "hidden charge": 1.5, "excess fee": 2.0},
+  "Admission Irregularity": {"admission": 1.5, "counselling": 1.2, "management quota": 1.8, "cutoff": 1.0, "seat": 1.0, "merit list": 1.5},
+  "Approval / Norms Violation": {"approval": 2.0, "without approval": 2.5, "affiliation": 1.2, "intake": 1.5, "extension campus": 1.5, "norms": 1.5, "violation": 1.2, "fake": 1.2, "recognition": 1.2},
+  "Infrastructure Deficiency": {"laboratory": 1.5, "library": 1.2, "infrastructure": 1.8, "classroom": 1.0, "building": 0.8, "hostel": 0.8, "equipment": 1.2, "deficiency": 1.5},
+  "Academic & Examination": {"certificate": 1.5, "exam": 1.2, "result": 1.2, "marks": 1.2, "withheld": 1.2, "transcript": 1.5, "syllabus": 1.0},
+  "Harassment & Safety": {"ragging": 2.5, "harassment": 2.0, "assault": 2.0, "safety": 1.2, "discrimination": 1.5, "sexual": 2.0},
+  "Misleading Information": {"misleading": 2.0, "false claim": 2.0, "placement claim": 2.0, "advertisement": 1.5, "fake faculty": 2.0, "misrepresentation": 2.0}
+}
